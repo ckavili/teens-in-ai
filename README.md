@@ -17,3 +17,7 @@ Click to open the notebook:
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1qwEpHksE7juSOjhJUwmxZI6P3YEb0YEY?usp=sharing)
 
 You'll find detailed explanations and instructions in the notebook. Let's dive in and start building!
+
+## 3. Join Discussions
+
+Join discussions by clicking [here](https://github.com/ckavili/teens-in-ai/discussions) and share your own experience!
